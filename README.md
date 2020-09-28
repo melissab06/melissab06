@@ -3,8 +3,6 @@
 <!--
 **melissab06/melissab06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... some python projects!!
 - 🌱 I’m currently learning ... python and Java
 - 👯 I’m looking to collaborate on ... web programming
